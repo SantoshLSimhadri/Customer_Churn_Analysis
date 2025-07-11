@@ -22,14 +22,6 @@ The business needed to reduce monthly churn, which had risen to 15%. We aimed to
 - Recommended a retention strategy that projected a potential **8–10% churn reduction**
 - Built a dashboard for ongoing churn tracking by segment and product line
 
-## 📁 Project Structure
-
-├── data/
-│ └── customer_data.csv
-├── sql/
-│ └── churn_query.sql
-├── analysis/
-└── churn_model.py
 
 ## 🚀 Future Enhancements
 
